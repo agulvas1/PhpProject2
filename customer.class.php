@@ -257,6 +257,8 @@ class Customer {
             </head>
             <body>
                 <a href='https://github.com/agulvas1/PhpProject2' target='_blank'>Github</a><br />
+				<a href='https://csis.svsu.edu/~aagulva2/cis355wi19/UMLDiagram.JPG' target='_blank'>UML Diagram</a><br 
+				/>
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
